@@ -253,7 +253,7 @@ You've got this already!
 
 The standards implementing terminal colours began with limited (4-bit) options. The table below lists the RGB values of the background and foreground colours used for these by a variety of terminal emulators:
 
-INSERT IMAGE
+![img01](https://github.com/Jose-Verdu-Diaz/ANSI_color_escape_sequences/blob/main/01.png)
 
 Using the above, you can make red text on a green background (but why?) using:
 
@@ -277,7 +277,7 @@ This may be why story Beowulf only contains the colours black, white, and red. I
 
 Differences between languages are also interesting: note the profusion of distinct colour words used by English vs. Chinese. However, digging deeper into these languages shows that each uses colour in distinct ways. ([More information](http://muyueh.com/greenhoney/))
 
-INSERT IMAGE
+![img02](https://github.com/Jose-Verdu-Diaz/ANSI_color_escape_sequences/blob/main/02.png)
 
 Generally speaking, the naming, use, and grouping of colours in human languages is fascinating. Now, back to the show.
 
@@ -285,7 +285,7 @@ Generally speaking, the naming, use, and grouping of colours in human languages 
 
 Technology advanced, and tables of 256 pre-selected colours became available, as shown below.
 
-INSER IMAGE
+![img03](https://github.com/Jose-Verdu-Diaz/ANSI_color_escape_sequences/blob/main/03.png)
 
 Using these above, you can make pink text like so:
 
@@ -351,4 +351,4 @@ Since I'm often in the position of trying to remember what colours are what, I h
 
 This prints
 
-INSERT IMAGE
+![img04](https://github.com/Jose-Verdu-Diaz/ANSI_color_escape_sequences/blob/main/04.png)
